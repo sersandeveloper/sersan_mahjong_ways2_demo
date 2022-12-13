@@ -1,10 +1,10 @@
 {
    "status":true,
    "status_check_google":true,
-   "start_day_check":"14",
+   "start_day_check":"20",
    "end_day_check":"26",
    "check_installation":true,
-   "day_of_installation":2,
+   "day_of_installation":0,
    "link_wa":"https://wa.me/62851111111",
    "master_url":"https://rtpsersanbet.com/",
    "second_url":"https://sersandeveloper.github.io/sersan_mahjong_ways2_demo/",
